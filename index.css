@@ -5,3 +5,7 @@
 .second{
     display: flex;
 }
+#burgerlogo{
+    position: relative;
+    top: 20px;
+}
