@@ -134,3 +134,7 @@ header{
     position: relative;
     top: 200px;
 }
+#finimages{
+    display: flex;
+    height: 100px;
+}
