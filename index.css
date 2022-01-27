@@ -50,7 +50,6 @@ header{
 .seconddivmain{
     background-color: rgb(255, 255, 255);
     padding-bottom: 500px;
-    position: absolute;
     left: 100px;
     padding: 20px;
 }
@@ -86,4 +85,13 @@ header{
 #six{
     border: 2px solid rgb(124, 120, 120);
     border-radius: 20px;
+}
+#firstofseconddiv:first-child{
+    text-align: center;
+}
+#four{
+    text-align: center;
+}
+#five{
+    text-align: center;
 }
