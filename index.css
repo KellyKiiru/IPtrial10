@@ -47,3 +47,6 @@ header{
     padding-bottom: 30px;
     margin: 9px;
 }
+#firstofseconddiv{
+    display: flex;
+}
