@@ -138,3 +138,11 @@ header{
     display: flex;
     height: 100px;
 }
+.li{
+    text-align: center ;
+}
+h3{
+    text-align: center;
+    position: relative;
+    left: 20px;
+}
