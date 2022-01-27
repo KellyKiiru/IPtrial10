@@ -28,10 +28,22 @@ header{
     display: flex;
     text-align: center;
     background-color: rgb(227, 234, 250) ;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
 }
 .qualityburgers{
     border: 1px solid rgb(83, 83, 83);
     border-radius: 5%;
     padding-bottom: 30px;
+    margin: 9px;
+}
+.fastdelivery{
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 5%;
+    padding-bottom: 30px;
+}
+.deliciousmeals{
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 5%;
+    padding-bottom: 30px;
+    margin: 9px;
 }
