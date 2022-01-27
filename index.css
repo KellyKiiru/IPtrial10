@@ -9,3 +9,6 @@
     position: relative;
     top: 20px;
 }
+.otherdiv{
+    float: left;
+}
