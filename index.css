@@ -112,3 +112,6 @@ header{
 .thirddivmain{
     margin-left: 50px;
 }
+#double{
+    float: right;
+}
