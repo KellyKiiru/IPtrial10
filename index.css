@@ -92,6 +92,7 @@ header{
 #four{
     text-align: center;
     margin-top: 5px;
+    margin-right: 5px;
 }
 #five{
     text-align: center;
@@ -100,4 +101,5 @@ header{
 #six{
     text-align: center;
     margin-top: 5px;
+    margin-left: 5px;
 }
