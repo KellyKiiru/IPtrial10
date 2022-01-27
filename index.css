@@ -63,4 +63,27 @@ header{
 .secondofseconddiv{
     display: flex;
 }
-#one
+#one{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
+#two{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
+#three{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
+#four{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
+#five{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
+#six{
+    border: 2px solid rgb(124, 120, 120);
+    border-radius: 20px;
+}
