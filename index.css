@@ -102,3 +102,13 @@ header{
     margin-top: 5px;
     margin-right: 5px;
 }
+#ourmenu{
+    text-align: center;
+    font-weight: 900;
+}
+#menu{
+    color: orange;
+}
+.thirddivmain{
+    margin-left: 50px;
+}
