@@ -65,6 +65,7 @@ header{
 #one{
     border: 2px solid rgb(124, 120, 120);
     border-radius: 20px;
+    margin-right: 5px;
 }
 #two{
     border: 2px solid rgb(124, 120, 120);
@@ -73,6 +74,7 @@ header{
 #three{
     border: 2px solid rgb(124, 120, 120);
     border-radius: 20px;
+    margin-left: 5px;
 }
 #four{
     border: 2px solid rgb(124, 120, 120);
@@ -81,10 +83,16 @@ header{
 #five{
     border: 2px solid rgb(124, 120, 120);
     border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    
 }
 #six{
     border: 2px solid rgb(124, 120, 120);
     border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 #firstofseconddiv:first-child{
     text-align: center;
@@ -93,13 +101,4 @@ header{
     text-align: center;
     margin-top: 5px;
     margin-right: 5px;
-}
-#five{
-    text-align: center;
-    margin-top: 5px;
-}
-#six{
-    text-align: center;
-    margin-top: 5px;
-    margin-left: 5px;
 }
