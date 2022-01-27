@@ -47,6 +47,13 @@ header{
     padding-bottom: 30px;
     margin: 9px;
 }
+.seconddivmain{
+    background-color: blanchedalmond;
+    padding-bottom: 500px;
+}
 #firstofseconddiv{
     display: flex;
+}
+.seconddivmain img{
+    height: 200px;
 }
