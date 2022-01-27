@@ -1,6 +1,7 @@
 .first{
     float: right;
     width: 200px;
+    display: inline;
 }
 .second{
     display: flex;
@@ -16,4 +17,7 @@
 header{
     background-color: yellow;
     padding-bottom: 400px;
+}
+#CITYPNG{
+    float: right;
 }
