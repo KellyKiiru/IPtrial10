@@ -3,8 +3,8 @@ html{
 }
 .first{
     float: right;
-    width: 200px;
-    display: inline;
+    display: flex;
+    padding: 20px;
 }
 .second{
     display: flex;
@@ -50,10 +50,15 @@ header{
 .seconddivmain{
     background-color: blanchedalmond;
     padding-bottom: 500px;
+
 }
 #firstofseconddiv{
     display: flex;
 }
 .seconddivmain img{
     height: 200px;
+}
+.secondofseconddiv{
+    display: flex;
+
 }
