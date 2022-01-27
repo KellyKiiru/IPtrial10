@@ -50,7 +50,9 @@ header{
 .seconddivmain{
     background-color: rgb(255, 255, 255);
     padding-bottom: 500px;
-
+    position: absolute;
+    left: 300px;
+    padding: 20px;
 }
 #firstofseconddiv{
     display: flex;
@@ -60,5 +62,4 @@ header{
 }
 .secondofseconddiv{
     display: flex;
-
 }
