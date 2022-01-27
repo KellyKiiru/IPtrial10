@@ -91,7 +91,11 @@ header{
 }
 #four{
     text-align: center;
+    margin-top: 5px;
 }
 #five{
+    text-align: center;
+}
+#six{
     text-align: center;
 }
