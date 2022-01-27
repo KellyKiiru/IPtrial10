@@ -125,3 +125,8 @@ header{
     background-color: orange;
     padding-bottom: 700px;
 }
+#finalpics{
+    position: relative;
+    display: flex;
+    float: right;
+}
