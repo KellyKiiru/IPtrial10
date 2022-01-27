@@ -1,0 +1,7 @@
+.first{
+    float: right;
+    width: 200px;
+}
+.second{
+    display: flex;
+}
